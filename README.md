@@ -4,7 +4,7 @@
   Verilog/SystemVerilog Guide
 </h1>
 
-#### A guide covering Verilog & SystemVerilog including the applications, libraries and tools that will make you a better and more efficient developer with Verilog & SystemVerilog and have a better understanding of how hardware works on the lowest level.
+#### A guide covering Verilog & SystemVerilog including the applications, libraries and tools that will make you a better and more efficient developer by having a better understanding of how hardware works on the lowest level.
 
 ## Resources
 
